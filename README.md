@@ -18,9 +18,9 @@ Sou Matheus Augusto, um desenvolvedor web apaixonado por tecnologia, jogos e des
   <table>
     <thead>
       <tr>
-        <th>Linguagens</th>
-        <th>Frameworks and Tecnologias</th>
-        <th>Ferramentas</th>
+        <th>Languages</th>
+        <th>Frameworks and Technologies</th>
+        <th>Tools</th>
       </tr>
     </thead>
     <tbody>
