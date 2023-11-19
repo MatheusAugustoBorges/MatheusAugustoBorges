@@ -5,7 +5,7 @@ Sou Matheus Augusto, um desenvolvedor web apaixonado por tecnologia, jogos e des
 <br>
 
 <!-- GITHUB STATUS -->
-<div align="center">
+<div id='lojc' align="center">
   <a href="https://github.com/MatheusAugustoBorges?tab=repositories">
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MatheusAugustoBorges&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAugustoBorges&layout=compact&langs_count=7&theme=chartreuse-dark"/> 
