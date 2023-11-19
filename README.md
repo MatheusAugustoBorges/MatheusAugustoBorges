@@ -6,12 +6,6 @@ Olá 👋
 😜 Fato curioso: Faço coleção de carrinhos HotWheels e carrinhos escala 1/32 🚘 
 <br>
 
-Você pode me contactar por:
-<br>
-📫 Email: matheus.a.s.borges@gmail.com
-<br>
-💻 Linkedin: https://www.linkedin.com/in/matheusasborges/
-
 <!-- GITHUB STATUS -->
 <div id='lojc' align="center">
   <a href="https://github.com/MatheusAugustoBorges?tab=repositories">
