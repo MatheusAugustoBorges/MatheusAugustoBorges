@@ -7,7 +7,7 @@ Olá 👋
 <!-- GITHUB STATUS -->
 <div id='lojc' align="center">
   <a href="https://github.com/MatheusAugustoBorges?tab=repositories">
- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MatheusAugustoBorges&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+ <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MatheusAugustoBorges&show_icons=true&theme=chartreuse-dark&include_all_commits=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAugustoBorges&layout=compact&theme=chartreuse-dark"/> 
 </div>
 
