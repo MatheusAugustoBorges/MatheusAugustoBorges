@@ -59,7 +59,7 @@ Olá 👋
 ________________________________________________________________________________
 <br>
 <br>
-😜 Fato curioso: Faço coleção de carrinhos HotWheels e carrinhos escala 1/32 🚘 
+😜 Fato curioso: Faço coleção de carrinhos Hot Wheels e carrinhos escala 1/32 🚘 
 <br>
 
  <!----------------------------------------------------------->
