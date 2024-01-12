@@ -1,6 +1,6 @@
 Olá 👋
 
-🤓 Sou Matheus Augusto, um desenvolvedor web admirador do progresso científico e tecnológico, que impulsiona a resolução de desafios e o avanço contínuo de nossa sociedade. Como desenvolvedor, busco sempre novos conhecimentos e procuro desenvolver códigos limpos e organizados. A curiosidade em procurar compreender como as coisas funcionam me estimula a aprender e explorar as várias tecnologias disponíveis e aplicá-las através dos códigos. 😄
+🤓 Sou Matheus Augusto, um desenvolvedor web admirador do progresso científico e tecnológico, que impulsiona a resolução de desafios e o avanço contínuo de nossa sociedade. Como desenvolvedor web full stack, busco sempre novos conhecimentos e procuro desenvolver códigos limpos e organizados. A curiosidade em procurar compreender como as coisas funcionam me estimula a aprender e explorar as várias tecnologias disponíveis e aplicá-las através dos códigos. 😄
 <br>
 <br>
 
