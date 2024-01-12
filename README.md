@@ -29,6 +29,7 @@ Olá 👋
           <img title="javascript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30" height="30"/>&nbsp;&nbsp;
           <img title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30"/>&nbsp;&nbsp;
           <img title="python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="30" height="30"/>&nbsp;&nbsp;
+          <img title="java" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="30" height="30"/>&nbsp;&nbsp;
         </td>
         <td align="center">
           <img title="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;&nbsp;
